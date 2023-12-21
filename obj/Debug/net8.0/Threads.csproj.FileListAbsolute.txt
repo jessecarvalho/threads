@@ -1,0 +1,14 @@
+C:\Users\jesse\Documents\GitHub\Threads\bin\Debug\net8.0\Threads.exe
+C:\Users\jesse\Documents\GitHub\Threads\bin\Debug\net8.0\Threads.deps.json
+C:\Users\jesse\Documents\GitHub\Threads\bin\Debug\net8.0\Threads.runtimeconfig.json
+C:\Users\jesse\Documents\GitHub\Threads\bin\Debug\net8.0\Threads.dll
+C:\Users\jesse\Documents\GitHub\Threads\bin\Debug\net8.0\Threads.pdb
+C:\Users\jesse\Documents\GitHub\Threads\obj\Debug\net8.0\Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesse\Documents\GitHub\Threads\obj\Debug\net8.0\Threads.AssemblyInfoInputs.cache
+C:\Users\jesse\Documents\GitHub\Threads\obj\Debug\net8.0\Threads.AssemblyInfo.cs
+C:\Users\jesse\Documents\GitHub\Threads\obj\Debug\net8.0\Threads.csproj.CoreCompileInputs.cache
+C:\Users\jesse\Documents\GitHub\Threads\obj\Debug\net8.0\Threads.dll
+C:\Users\jesse\Documents\GitHub\Threads\obj\Debug\net8.0\refint\Threads.dll
+C:\Users\jesse\Documents\GitHub\Threads\obj\Debug\net8.0\Threads.pdb
+C:\Users\jesse\Documents\GitHub\Threads\obj\Debug\net8.0\Threads.genruntimeconfig.cache
+C:\Users\jesse\Documents\GitHub\Threads\obj\Debug\net8.0\ref\Threads.dll
